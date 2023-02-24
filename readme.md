@@ -8,4 +8,4 @@ im ejiro
 
 ## local branching development
 
-1 oen index.html in your browser
+1 open index.html in your browser
